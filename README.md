@@ -20,9 +20,16 @@ Muhammad Nadhir Sultan Azzaky/2509116080
 
 (Karyawan) Tampilan awal dari menu login
 
-![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/2.%20Login%20sebagai%20karyawan.png)
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/6bc5ee9e911082b64f4ec94729f7f16cf031542d/2.2%20Output%20karyawan.png)
 
-(Karyawan) Hasil output ketika
+(Karyawan) Hasil output ketika memasukkan username atau password yang benar
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/6bc5ee9e911082b64f4ec94729f7f16cf031542d/FOTO%20OUTPUT%20MINI%20PROJECT%202/2.%20Login%20sebagai%20karyawan.png)
+
+(Karyawan) Hasil output ketika memasukkan username atau password yang salah
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/6bc5ee9e911082b64f4ec94729f7f16cf031542d/FOTO%20OUTPUT%20MINI%20PROJECT%202/2.1%20Login%20karyawan%20usn%20or%20pw%20salah.png)
+
 # Fitur-fitur sebagai manager
 
 1. Hasil output dari menu 1 yaitu Nama-nama pesawat (Read)
@@ -79,3 +86,44 @@ Hasil output ketika memasukkan nama pesawat yang udah terdaftar di departure mau
 
 # Fitur-fitur sebagai karyawan
 
+1. Hasil output dari menu 1 yaitu Nama-nama pesawat (Read)
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/6bc5ee9e911082b64f4ec94729f7f16cf031542d/FOTO%20OUTPUT%20MINI%20PROJECT%202/3.%20Hasil%20dari%20menu%201%20(Read).png)
+
+2. Hasil output dari menu 5 yaitu Memasukkan pesawat ke daftar Arrival
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/7.%20Hasil%20dari%20menu%205%20(Arrival).png)
+
+Hasil output ketika memasukkan nama pesawat yang udah terdaftar di arrival maupun di departure
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/7.1%20Hasil%20dari%20menu%205%20(Arrival).png)
+
+3.Hasil output dari menu 6 yaitu Memasukkan pesawat ke daftar Departure
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/8.%20Hasil%20dari%20menu%206%20(Departure).png)
+
+Hasil output ketika memasukkan nama pesawat yang udah terdaftar di departure maupun di arrival
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/8.1%20Hasil%20dari%20menu%206%20(Departure).png)
+
+4. Hasil output dari menu 7 yaitu Scheduler
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/9.%20Hasil%20dari%20menu%207%20(Scheduler).png)
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/9.1%20Hasil%20dari%20menu%207%20(Scheduler).png)
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/9.2%20Hasil%20dari%20menu%207%20(Scheduler).png)
+
+5. Hasil output dari menu 8 yaitu Stop
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/f7e86632a3112d3e6b4249aa069b055033dcfcbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/10.%20Hasil%20dari%20menu%208%20(Stop).png)
+
+# ERROR HANDLING
+
+EOFError
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/6963d3bfcad40828967d13bf7a514bdd02d7d954/Hasil%20dari%20EOFError.png)
+
+KeyboardInterrupt
+
+![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/6963d3bfcad40828967d13bf7a514bdd02d7d954/Hasil%20dari%20KeyboardInterrupt.png)
