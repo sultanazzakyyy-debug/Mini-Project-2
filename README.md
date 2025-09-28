@@ -7,6 +7,7 @@ Muhammad Nadhir Sultan Azzaky/2509116080
 # Menu Login
 
 Tampilan awal dari menu login
+
 ![img alt](https://github.com/sultanazzakyyy-debug/Mini-Project-2/blob/fac029fe61cc7ac93224f96824d483673df19bbb/FOTO%20OUTPUT%20MINI%20PROJECT%202/1.%20Login%20sebagai%20manager.png)
 
 Hasil output dari menu login sebagai manager
